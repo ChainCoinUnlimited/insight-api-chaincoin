@@ -61,7 +61,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-chaincoin": "^0.14.1",
+    "bitcore-lib-chaincoin": "^0.15.1",
     "bitcore-message-chaincoin": "^1.0.6",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
